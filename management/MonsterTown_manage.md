@@ -19,7 +19,7 @@
 4. 06/23 - 06/29
 	* Manager: NAME
 	* Goals:
-		1. GOAL1
+		
 		...
 5. 06/30 - 07/6
 	* Manager: NAME
@@ -29,7 +29,11 @@
 6. 07/07 - 07/13
 	* Manager: Burhan Bhatti(bub3)
 	* Goals:
-		1. GOAL1
+		1. Place NPC trainers scattered throughout the map
+		2. NPC are stationary for now 
+		3. Approaching an NPC  causes a menu to pop up which gives you the option to battle or bail
+		4. NPC are given uniform levels and random pokemon 
+		5. Research procedural generation and submit 
 		...
 7. 07/14 - 07/20
 	* Manager: NAME
