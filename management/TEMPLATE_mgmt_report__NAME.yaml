@@ -1,19 +1,51 @@
 # Magagment week end report
-manager_name: ""
-week: 1
+manager_name:Burhan Bhatti
+week: 9
 # Specific goals:
 goal:
-  - desc: ""
-    prs: []
-    status: ""
-  - desc: ""
-    prs: []
-    status: ""
+  -Place NPC trainers scattered throughout the map
+  progress:completed
+  -NPC are moving back and forth waiting for player to interact
+   progress:completed
+   persons:Zhiyi
+  -Approaching an NPC causes a menu to pop up which gives you the option to battle or bail
+    progress:completed
+    persons: Burhan Zhiyi
+  -NPC are given uniform levels and random pokemon
+     progress:completed
+     persons:adam
+  -Research procedural generation and submit
+     progress:completed
+     persons: Gurmail
+  -Provide UI that displays spawnable specs when monsters are deployed
+     progress:completed
+     persons: Adam
+  -NPC trainers battle using random logic
+    progress:completed
+    persons: Adam
 # Team member evalution
 team_members:
-  - PITTIDHERE: ""
-    score: 0
-    desc: ""
-  - PITTIDHERE:
-    score: 0
-    desc: ""
+  - PITTIDHERE:bub3
+    score: 1
+    desc: Helped implement menu 
+    Cleaned up battle sequence 
+    outside of goals, had a feature where screen flashed near NPCs, and when trying to escape, would stop flashing
+  - PITTIDHERE:gsm18
+    score: 2
+    desc: Did the outline for his advanced topic
+  -PITTIDHERE:zhz110
+    score: 1
+    desc: Helped implement menu 
+    Implemented NPC
+    outside of goals also had randomly spawning pokemon to battle
+  -PITTIDHERE:amw290
+    score:2
+    desc: Implemented random battle logic
+        Rearranged code so it worked more seamlessly 
+        Implemented ui for the battle sequence 
+        
+  -PITTIDHERE:azh15
+    score:-2
+    desc: no idea 
+    
+    
